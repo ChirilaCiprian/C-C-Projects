@@ -1,3 +1,5 @@
+// Hangman Game using WinBgim graphics library in C/C++
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
