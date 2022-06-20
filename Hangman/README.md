@@ -1,0 +1,6 @@
+![](hangman1.jpg)
+![](hangman2.jpg)
+![](hangman3.jpg)
+![](hangman4.jpg)
+![](hangman5.jpg)
+![](hangman6.jpg)
